@@ -96,7 +96,7 @@ The assignment is worth 100 total points, broken down as follows:
   * 10 points: `print_products()` prints a dynamic array of products as described above
   * 10 points: `find_max_price()` finds the product with the highest price as described above
   * 10 points: `find_max_investment()` finds the product with the highest investment, defined as price*inventory
-  * 20 points: `sort_by_inventory()` sorts a dynamic array of products by ascending inventory, in place, as described above
-  * 10 points: you can provide a satisfactory explanation of how your code works during your grading demo with the TA
+  * 10 points: `sort_by_inventory()` sorts a dynamic array of products by ascending inventory, in place, as described above
+  * 20 points: you can provide a satisfactory explanation of how your code works during your grading demo with the TA
 
 Note that we will only consider changes to `products.c` when grading your work.  Changes to other files will be ignored.
