@@ -1,7 +1,7 @@
 # Assignment 2
-**Due by 11:59pm on Monday, 4/20/2018**
+**Due by 11:59pm on Wednesday, 4/21/2018**
 
-**Demo due by 11:59pm on Monday 5/4/2018**
+**Demo due by 11:59pm on Wednesday 5/5/2018**
 
 This assignment is intended to give you practice writing C code (e.g. allocating and freeing memory, working with pointers, etc.) and also to have you start working with one of the most fundamental data structures we'll see in this course: the dynamic array.  There are several parts to the assignment, each described below.
 
