@@ -3,8 +3,8 @@
  * the assignment.  Make sure to add your name and @oregonstate.edu email
  * address below:
  *
- * Name:
- * Email:
+ * Name: Thomas Dinh
+ * Email: dinhtho@oregonstate.edu
  */
 
 #include <stdio.h>
@@ -28,7 +28,11 @@
  *   initialized with the values provided.
  */
 struct product* create_product(char* name, int inventory, float price) {
-  return NULL;
+  struct product* p = malloc(sizeof(struct product*));
+  p->name = name;
+  p->inventory = inventory;
+  p->price = price;
+  return p;
 }
 
 
